@@ -5,12 +5,11 @@ A full-stack web application for an online book store, built with the MERN stack
 ## Features
 
 - User authentication and authorization
-- Admin dashboard
 - Book catalog browsing
 - Shopping cart functionality
-- Secure payment processing
+- Payment processing
 - User profile management
-- Order tracking
+- Order history
 - Responsive design
 
 ## Tech Stack
